@@ -1,4 +1,3 @@
-# .github
 # DriftWorks
 
 **Intelligent systems for complex environments.**
